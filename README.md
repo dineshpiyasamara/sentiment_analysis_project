@@ -29,4 +29,4 @@ Sentiment analysis uses natural language processing and machine learning techniq
 
 # Final Application
 
-![sentiment_analysis_application](https://github.com/dineshpiyasamara/sentiment_analysis_project/blob/main/demo.png?raw=true)
+![alt text](https://github.com/dineshpiyasamara/sentiment_analysis_project/blob/main/demo.png?raw=true)
