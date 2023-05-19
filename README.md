@@ -26,3 +26,7 @@ Sentiment analysis uses natural language processing and machine learning techniq
 5. Build Prediction Pipeline
 6. Build Web Application
 7. Deploy to Azure
+
+# Final Application
+
+![sentiment_analysis_application](https://github.com/dineshpiyasamara/sentiment_analysis_project/blob/main/demo.png)
